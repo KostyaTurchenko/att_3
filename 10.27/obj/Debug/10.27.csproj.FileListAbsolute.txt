@@ -1,0 +1,10 @@
+D:\Programing\att3\10.27\bin\Debug\10.27.exe.config
+D:\Programing\att3\10.27\bin\Debug\10.27.exe
+D:\Programing\att3\10.27\bin\Debug\10.27.pdb
+D:\Programing\att3\10.27\obj\Debug\10.27.csprojResolveAssemblyReference.cache
+D:\Programing\att3\10.27\obj\Debug\_10._27.Form1.resources
+D:\Programing\att3\10.27\obj\Debug\_10._27.Properties.Resources.resources
+D:\Programing\att3\10.27\obj\Debug\10.27.csproj.GenerateResource.Cache
+D:\Programing\att3\10.27\obj\Debug\10.27.csproj.CoreCompileInputs.cache
+D:\Programing\att3\10.27\obj\Debug\10.27.exe
+D:\Programing\att3\10.27\obj\Debug\10.27.pdb
