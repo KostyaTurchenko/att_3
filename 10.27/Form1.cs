@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Utils;
+using BL;
 
 
 
@@ -37,7 +38,7 @@ namespace _10._27
                 List<string> ListExcludedStudents = instance.Exclude(students);
                 ExcludedStudents.Text = string.Join("; ", ListExcludedStudents);
             }
-            catch(Exception ex)
+            catch(Exception)
             {
                 MessageUtils.ShowError("Произошла ошибка");
             }
@@ -72,7 +73,7 @@ namespace _10._27
 
                     StudentsDGVConvert.StudentsListToDGV(InputStudentsDGV, studentsList);
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     MessageUtils.ShowError("Ошиба чтения из файла");
                 }
@@ -96,7 +97,7 @@ namespace _10._27
 
                     StudentsFiles.SaveStudentsListInFile(path, studentsList);
                 }
-                catch (Exception ex)
+                catch (Exception )
                 {
                     MessageUtils.ShowError("Ошиба сохранения файла");
                 }

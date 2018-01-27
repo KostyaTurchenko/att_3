@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _10._27
+namespace BL
 {
-    class StudentsSort
+    public class StudentsSort
     {
         public static List<Student> Sort (List<Student> students)
         {
@@ -17,4 +17,6 @@ namespace _10._27
             return NewList;
         }
     }
+
+    
 }

@@ -8,3 +8,5 @@ D:\Programing\att3\10.27\obj\Debug\10.27.csproj.GenerateResource.Cache
 D:\Programing\att3\10.27\obj\Debug\10.27.csproj.CoreCompileInputs.cache
 D:\Programing\att3\10.27\obj\Debug\10.27.exe
 D:\Programing\att3\10.27\obj\Debug\10.27.pdb
+D:\Programing\att3\10.27\bin\Debug\BL.dll
+D:\Programing\att3\10.27\bin\Debug\BL.pdb

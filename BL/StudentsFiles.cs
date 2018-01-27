@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace _10._27
+namespace BL
 {
     public class StudentsFiles
     {

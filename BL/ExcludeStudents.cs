@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _10._27
+namespace BL
 {
     public class ExcludeStudents 
     {
@@ -25,9 +25,7 @@ namespace _10._27
                 {
                     ListPointsExcludedStudent.Add(student.name);
                     ListExcludedStudent.Add(student);
-                    
-                    
-
+                                       
                 }
                 
 

@@ -1,0 +1,9 @@
+D:\Programing\att3\10.27Console\obj\Debug\10.27Console.csprojResolveAssemblyReference.cache
+D:\Programing\att3\10.27Console\obj\Debug\10.27Console.csproj.CoreCompileInputs.cache
+D:\Programing\att3\10.27Console\bin\Debug\10.27Console.exe.config
+D:\Programing\att3\10.27Console\bin\Debug\10.27Console.exe
+D:\Programing\att3\10.27Console\bin\Debug\10.27Console.pdb
+D:\Programing\att3\10.27Console\obj\Debug\10.27Console.exe
+D:\Programing\att3\10.27Console\obj\Debug\10.27Console.pdb
+D:\Programing\att3\10.27Console\bin\Debug\BL.dll
+D:\Programing\att3\10.27Console\bin\Debug\BL.pdb

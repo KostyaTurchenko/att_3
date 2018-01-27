@@ -1,0 +1,6 @@
+D:\Programing\att3\BL\bin\Debug\BL.dll
+D:\Programing\att3\BL\bin\Debug\BL.pdb
+D:\Programing\att3\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\Programing\att3\BL\obj\Debug\BL.dll
+D:\Programing\att3\BL\obj\Debug\BL.pdb
+D:\Programing\att3\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
